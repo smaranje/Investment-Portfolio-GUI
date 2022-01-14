@@ -5,7 +5,7 @@ Smaranjeet Singh
 November 30, 2021	smaranje@uoguelph.ca
 ******************************************
 
-
+*******************
 Program description
 *******************
 
@@ -15,9 +15,9 @@ Program description
 -The static buy/sell commission fees for stocks is $9.99. The redemption fee for mutual funds are $45.00.
 - Basically, we are creating an OOP program that manages a stock inverster's portfolio, and to make it easier for the Investor, a GUI is implemented for ease of use.
 
-
+*******************
 User Guide
-**********
+*******************
 GUI
 	- Click buy in command menu to buy
              	- Choose stock to buy stock
